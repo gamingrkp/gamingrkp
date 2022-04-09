@@ -16,6 +16,13 @@
 
 ### Stats
 
+
+  <summary>Just Random guy Sometimes like coding</summary>
+  <br/>
+  
+[![Sinon](https://i.imgur.com/p09FnTZ_d.webp?maxwidth=760&fidelity=grand)](https://discord.com/users/551968387786604545)
+
+
 <details> 
   <summary>GitHub Stats</summary>
   <br/>
@@ -29,11 +36,4 @@
 </details>
 
 [![Horizuki's github activity graph](https://activity-graph.herokuapp.com/graph?username=gamingrkp&color=fce9ed&point=ffffff&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<details> 
-  <summary>An image</summary>
-  <br/>
-  
-[![Sinon](https://i.imgur.com/p09FnTZ_d.webp?maxwidth=760&fidelity=grand)](https://discord.com/users/551968387786604545)
-</details>
 
