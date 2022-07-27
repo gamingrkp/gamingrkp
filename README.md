@@ -3,8 +3,9 @@
 ---
 
 ### About me
-- you can call me ohsyme
-- you can dm me in discord ohsyme#8175
+- you can call me shrinkLA
+- you can dm me in discord SHeeeessssshh#6969
+- https://me.rafikp.cf/ here my portfolio thanks for stalker ( this web not made by me this from another guy ) , nice web thanks mr.stalker
 
 ---
 
