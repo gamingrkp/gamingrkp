@@ -1,17 +1,4 @@
-### Hello I'm ohsyme
-
----
-
-### About me
-- you can call me shrinkLA
-- you can dm me in discord SHeeeessssshh#6969
-- https://me.rafikp.cf/ here my portfolio thanks for stalker ( this web not made by me this from another guy ) , nice web thanks mr.stalker
-
----
-
-<a href="https://discord.com/users/972477619360628806">
-<img height="95px" src="https://discord.c99.nl/widget/theme-4/972477619360628806.png" />
-</a>
+### Hellow
 
 ---
 
